@@ -25,7 +25,7 @@ cd ..
 #sudo yum install -y python39-pip python39-devel
 
 # Set Python 3.9 as default
-sudo alternatives --set python3 /usr/bin/python3.9
+# sudo alternatives --set python3 /usr/bin/python3.9
 
 # download requirements
 python3 -m ensurepip --upgrade
